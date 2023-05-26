@@ -1,2 +1,1 @@
-# rust
-My rust code repository
+# Rust
